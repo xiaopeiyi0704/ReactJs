@@ -424,3 +424,9 @@ ReactDOM.render(
   </body>
   
   
+
+Summary
+=========================================
+funtion xx 用的时候 <xx/>
+组件（component） class xx extends React.Component 用的时候 <xx/>
+const xx="<h1>hello</h1>" 用的时候 xx
